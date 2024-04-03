@@ -25,8 +25,11 @@ in easy-to-understand visualizations. Solid grasp of statistical, algebraic and
 other analytical techniques. Highly organized, motivated and diligent with
 significant experience in working with data.
 
+&nbsp;
+
 
 ### Education
+&nbsp;
 
 `2008-2020` **High School Diploma** – *Escola Básica e Secundária Oliveira Júnior - São João da Madeira, Portugal*
 
