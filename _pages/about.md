@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 
-# About
-
 Hi! I'm Pedro, I'm currently enrolled in the last year of the Data Science Bachelor's 
 degree at [NOVA Information Management School](https://www.novaims.unl.pt/). 
-I created this website to share my academic journey and showcase the projects that I have worked on. 
+I created this website to share my academic journey and showcase my project portfolio. 
 Feel free to reach out to me anytime!
 
 ---
@@ -25,7 +23,6 @@ in easy-to-understand visualizations. Solid grasp of statistical, algebraic and
 other analytical techniques. Highly organized, motivated and diligent with
 significant experience in working with data.
 
-&nbsp;
 
 
 ### Education
@@ -44,3 +41,7 @@ the Data Science Bachelor.
 
 `2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
 - I am currently in the third and final year of my Bachelor’s degree in Data Science.
+
+### What do I study at NOVA IMS?
+
+
