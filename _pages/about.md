@@ -15,8 +15,8 @@ Feel free to reach out to me anytime!
 
 ---
 
-# Curriculum Vitae
-&nbsp;  
+# Curriculum Vitae<br/>
+
 I'm a Data Science Student familiar with gathering, cleaning and extracting
 meaningful information from data. Capable of presenting the extracted insights
 in easy-to-understand visualizations. Solid grasp of statistical, algebraic and
@@ -40,7 +40,7 @@ the Data Science Bachelor.<br/><br/>
     
 
 * `2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
-  * Scored 20 out of 20 in the most credited curricular unit **"Capstone Project"**;
+  * Scored 20 out of 20 in the degree's most credited curricular unit **"Capstone Project"**;
   * Currently have a  15.23 weighted average grade.
 
 ## Competences<br/>
@@ -58,11 +58,12 @@ understanding of key concepts, though I may need more practical experience in th
 - **Data Visualization**: Matplotlib, Seaborn, PowerBI, SAS
 - **Data Manipulation**: Pandas, Numpy, Excel
 - **Natural Language Processing (NLP)**: NLTK, TextBlob
+- **Interface Development**: Streamlit
 - **Algorithms and Data Structures**
 - **Version Control**: Git, GitHub
 
 
-#### *Strong Foundational Knowledge*:
+#### *Strong Foundational Knowledge*
 
 - **Programming Languages**: R, SQL
 - **Statistical Analysis**: Hypothesis Testing, Time Series Analysis, Regression Analysis
