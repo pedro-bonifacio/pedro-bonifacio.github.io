@@ -63,7 +63,7 @@ understanding of key concepts, though I may need more practical experience in th
 - **Version Control**: Git, GitHub
 
 
-#### *Strong Foundational Knowledge*
+#### *Solid Foundational Knowledge*
 
 - **Programming Languages**: R, SQL
 - **Statistical Analysis**: Hypothesis Testing, Time Series Analysis, Regression Analysis
