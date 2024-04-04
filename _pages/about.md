@@ -22,26 +22,27 @@ meaningful information from data. Capable of presenting the extracted insights
 in easy-to-understand visualizations. Solid grasp of statistical, algebraic and
 other analytical techniques. Highly organized, motivated and diligent with
 significant experience in working with data.
-
-
-
-### Education
+  
+  
+  
+## Education
 &nbsp;
 
-`2008-2020` **High School Diploma** – *Escola Básica e Secundária Oliveira Júnior - São João da Madeira, Portugal*
+* `2008-2020` **High School Diploma** – *Escola Básica e Secundária Oliveira Júnior - São João da Madeira, Portugal*
 
-- Graduated with a 19.9 score in Portugal’s mathematics national exam.
-- Applied to university with a 16.7 grade average.
+  * Graduated with a 19.9 out of 20 score in Portugal’s mathematics national exam;
+  * Applied to university with a 16.7 grade average.
+    
 
-`2020-2021` **Bachelor in Data Science** – *ISCTE - University Institute of Lisbon - Lisboa, Portugal*
-
-- Attended one year of higher education in ISCTE. In the following year I
+* `2020-2021` **Bachelor in Data Science** – *ISCTE - University Institute of Lisbon - Lisboa, Portugal*
+  * Attended one year of higher education in ISCTE. In the following year I
 transferred to NOVA Information Management School when they introduced
 the Data Science Bachelor.
+    
 
-`2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
-- I am currently in the third and final year of my Bachelor’s degree in Data Science.
+* `2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
+  * Scored 20 out of 20 in the most credited curricular unit **"Capstone Project"**;
+  * Currently have a  15.23 weighted average grade.
 
-### What do I study at NOVA IMS?
-
+## Competences
 
