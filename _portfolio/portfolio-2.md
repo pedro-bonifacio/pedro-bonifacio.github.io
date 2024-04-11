@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Course - Dementia Detection"
-excerpt: "Identify dementia in brain MRI images<br/><br/><img src='/images/brain_mri.jpg'><br/>"
+excerpt: "A deep-learning model to address Alzheimer’s disease classification problem.<br/><br/><img src='/images/brain_mri.jpg'><br/>"
 collection: portfolio
 ---
 Grade: 17
