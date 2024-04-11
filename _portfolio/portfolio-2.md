@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Course - Dementia Detection"
-excerpt: "Identify dementia in brain MRI images<br/><img src='/images/brain_mri.jpg'>"
+excerpt: "Identify dementia in brain MRI images<br/><img src='/images/brain_mri.jpg'><br/>"
 collection: portfolio
 ---
 Grade: 17
