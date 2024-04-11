@@ -5,5 +5,5 @@ collection: portfolio
 ---
 Grade: 17
 
-Blog post in progress...
+Blog post under construction...
 

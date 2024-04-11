@@ -8,4 +8,5 @@ collection: portfolio
 
 Grade: 20
 
-Blog post in progress...
+Blog post under construction...
+
