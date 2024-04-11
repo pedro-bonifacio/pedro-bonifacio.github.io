@@ -52,7 +52,7 @@ en-AU:
 # --------------
 es: &DEFAULT_ES
   page                       : "Página"
-  pagination_previous        : "Anterior"
+  pagination_previous        : "Anteriorr"
   pagination_next            : "Siguiente"
   breadcrumb_home_label      : "Inicio"
   breadcrumb_separator       : "/"
