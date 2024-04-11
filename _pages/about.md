@@ -23,7 +23,23 @@ in easy-to-understand visualizations. Solid grasp of statistical, algebraic and
 other analytical techniques. Highly organized, motivated and diligent with
 significant experience in working with data.
   
+Check out my [project portfolio](https://pedro-bonifacio.github.io/portfolio/)!
 
+## Competences<br/>
+
+
+- **Programming Languages**: Python, R, SQL
+- **LLMs**: LangChain
+- **Machine Learning**: Deep Learning (educated in Keras, self-taught in PyTorch), Supervised Learning and Unsupervised Learning using scikit-learn
+- **Data Visualization**: Matplotlib, Seaborn, PowerBI, SAS
+- **Data Manipulation**: Pandas, Numpy, Excel, MS Power Query
+- **Natural Language Processing (NLP)**: NLTK, TextBlob
+- **Interface Development**: Streamlit
+- **Algorithms and Data Structures**
+- **Statistical Analysis**: Hypothesis Testing, Time Series Analysis, Regression Analysis
+- **Big Data Technologies**: Hadoop, Spark
+- **Database Management Systems**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
   
 ## Education<br/><br/>
 
@@ -41,31 +57,6 @@ the Data Science Bachelor.<br/><br/>
 
 * `2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
   * Scored 20 out of 20 in the degree's most credited curricular unit **"Capstone Project"**;
-  * Currently have a  15.23 weighted average grade.
-
-## Competences<br/>
-
-The division of competences into two categories 
-is aimed to provide a clear snapshot of my skills. "Proficient" showcases where I excel 
-with extensive hands-on experience, while "Strong Foundational Knowledge" indicates my 
-understanding of key concepts, though I may need more practical experience in these areas.
-
-#### *Proficient*
-
-- **Programming Languages**: Python
-- **LLMs**: LangChain
-- **Machine Learning**: Deep Learning, Supervised Learning, Unsupervised Learning
-- **Data Visualization**: Matplotlib, Seaborn, PowerBI, SAS
-- **Data Manipulation**: Pandas, Numpy, Excel
-- **Natural Language Processing (NLP)**: NLTK, TextBlob
-- **Interface Development**: Streamlit
-- **Algorithms and Data Structures**
-- **Version Control**: Git, GitHub
+  * Currently have a  15.23 weighted average grade.<br/>
 
 
-#### *Solid Foundational Knowledge*
-
-- **Programming Languages**: R, SQL
-- **Statistical Analysis**: Hypothesis Testing, Time Series Analysis, Regression Analysis
-- **Big Data Technologies**: Hadoop, Spark
-- **Database Management Systems**: MySQL, MongoDB

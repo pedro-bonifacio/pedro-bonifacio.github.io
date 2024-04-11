@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Pedro Bonifácio"
 title_separator          : "-"
 name                     : &name "Pedro Bonifácio"
-description              : &description "Data science graduate student"
+description              : &description "Data science Graduate"
 url                      : https://pedro-bonifacio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedro-bonifacio/pedro-bonifacio.github.io"
@@ -21,7 +21,7 @@ repository               : "pedro-bonifacio/pedro-bonifacio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pp.jpeg"
   name             : "Pedro Bonifácio"
   pronouns         : # example: "she/her"  
   bio              : "Data Science Student"
