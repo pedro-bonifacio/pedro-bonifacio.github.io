@@ -4,4 +4,7 @@ excerpt: "Bird species identification from audio, focused on under-studied speci
 collection: portfolio
 ---
 
+https://www.kaggle.com/competitions/birdclef-2024
+
+
 Currently working on this project...
