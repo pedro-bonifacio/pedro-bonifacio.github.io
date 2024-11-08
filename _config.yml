@@ -21,7 +21,7 @@ repository               : "pedro-bonifacio/pedro-bonifacio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp_zoom2.jpeg"
+  avatar           : "pp_zoom2.png"
   name             : "Pedro Bonifácio"
   pronouns         : # example: "she/her"  
   bio              : "Data Science Student"
