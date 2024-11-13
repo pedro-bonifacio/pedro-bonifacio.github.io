@@ -21,12 +21,13 @@ I'm a Data Science Student familiar with gathering, cleaning and extracting
 meaningful information from data. Capable of presenting the extracted insights
 in easy-to-understand visualizations. Solid grasp of statistical, algebraic and
 other analytical techniques. Highly organized, motivated and diligent with
-significant experience in working with data.
+significant personal and academic experience in working with data.
   
-Check out my [project portfolio](https://pedro-bonifacio.github.io/portfolio/)!
+Check out my personal and academic [project portfolio](https://pedro-bonifacio.github.io/portfolio/)!
 
 ## Competences<br/>
 
+The **Competences** section provides a comprehensive overview of the technical and analytical skills that form the foundation of my data science expertise. This summary of competencies is designed to give a clear view of my technical range and readiness to contribute effectively to data science and analytics projects.<br/><br/>
 
 - **Programming Languages**: Python, R, SQL
 - **LLMs**: LangChain
@@ -34,7 +35,7 @@ Check out my [project portfolio](https://pedro-bonifacio.github.io/portfolio/)!
 - **Data Visualization**: Matplotlib, Seaborn, PowerBI, SAS
 - **Data Manipulation**: Pandas, Numpy, Excel, MS Power Query
 - **Natural Language Processing (NLP)**: NLTK, TextBlob
-- **Interface Development**: Streamlit
+- **Interface Development**: Streamlit, Gradio
 - **Algorithms and Data Structures**
 - **Statistical Analysis**: Hypothesis Testing, Time Series Analysis, Regression Analysis
 - **Big Data Technologies**: Hadoop, Spark
@@ -59,6 +60,4 @@ the Data Science Bachelor.<br/><br/>
 
   * Graduated with a 19.9 out of 20 score in Portugal’s mathematics national exam;
   * Applied to university with a 16.7 grade average.<br/><br/>
-
-
 
