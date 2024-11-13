@@ -5,9 +5,6 @@ collection: portfolio
 ---
 &nbsp;
 &nbsp;
-&nbsp;
-### Building an LLM-Powered Car Chatbot with AutoMentor
-
 
 **Project Link**: [GitHub Repository](https://github.com/pedro-bonifacio/CapstoneProject)\
 **Project Grade**: 20/20
