@@ -3,10 +3,12 @@ title: "Capstone Project: Auto Mentor - A LLM-powered chat bot"
 excerpt: "A Chat Bot capable of helping you find a car in StandVirtual & vehicle price appraisal using UMAP.<br/><br/><img src='/images/automentor.jpeg'><br/>"
 collection: portfolio
 ---
+&nbsp;
+&nbsp;
+&nbsp;
+### Building an LLM-Powered Car Chatbot with AutoMentor
 
-# Building an LLM-Powered Car Chatbot with AutoMentor
 
-**Author**: Pedro Bonifacio  
 **Project Link**: [GitHub Repository](https://github.com/pedro-bonifacio/CapstoneProject)\
 **Project Grade**: 20/20
 
