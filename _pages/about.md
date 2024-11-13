@@ -46,8 +46,8 @@ analytical skills that form the foundation of my data science expertise. <br/>
 ## Education<br/><br/>
 
 * `2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
-  * Achieved a perfect score of 20 out of 20 in the degree's most credited curricular unit **"Capstone Project"** — [Check it out in my portfolio](https://pedro-bonifacio.github.io/portfolio/portfolio-3/);
-  * Earned a score of 17 in **"Deep Learning"**, taught by Professor Mauro Castelli, coordinator of the Data Science Bsc. Degree — [Check it out in my portfolio](https://pedro-bonifacio.github.io/portfolio/portfolio-2/);
+  * Achieved a perfect score of 20 out of 20 in the degree's most credited curricular unit **"Capstone Project"** — [Project link here!](https://pedro-bonifacio.github.io/portfolio/portfolio-3/)
+  * Earned a score of 17 in **"Deep Learning"**, taught by Professor Mauro Castelli, coordinator of the Data Science Bsc. Degree — [Project link here!](https://pedro-bonifacio.github.io/portfolio/portfolio-2/)
   * Currently have a 15.23 weighted average grade;<br/>
   * Check some of my university projects [here](https://pedro-bonifacio.github.io/portfolio/).
 
