@@ -27,7 +27,8 @@ Check out my personal and academic [project portfolio](https://pedro-bonifacio.g
 
 ## Competences<br/>
 
-The **Competences** section provides a comprehensive overview of the technical and analytical skills that form the foundation of my data science expertise. This summary of competencies is designed to give a clear view of my technical range and readiness to contribute effectively to data science and analytics projects.<br/><br/>
+The **Competences** section provides a comprehensive overview of the technical and 
+analytical skills that form the foundation of my data science expertise. <br/><br/>
 
 - **Programming Languages**: Python, R, SQL
 - **LLMs**: LangChain
