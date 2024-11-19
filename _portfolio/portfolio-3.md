@@ -1,6 +1,6 @@
 ---
 title: "Capstone Project: Auto Mentor - A LLM-powered chat bot"
-excerpt: "A Chat Bot capable of helping you find a car in StandVirtual & vehicle price appraisal using UMAP.<br/><br/><img src='/images/portfolio/automentor.jpeg'><br/>"
+excerpt: "A Chat Bot capable of helping you find a car in StandVirtual & vehicle price appraisal using UMAP.<br/><br/><img src='/images/portfolio/automentor.jpg'><br/>"
 collection: portfolio
 ---
 &nbsp;
