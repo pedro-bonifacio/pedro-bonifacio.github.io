@@ -45,6 +45,21 @@ analytical skills that form the foundation of my data science expertise. <br/>
 - **Database Management Systems**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
   
+
+## IT Experience<br/><br/>
+
+* `2024-Present` **Data Annotator** – *Part-time freelance, Remote*
+  * Annotated data for AI/ML models with precision and efficiency;
+  * Gathered data for chatbot training and rated/corrected its responses.
+
+
+  
+* `2018-2018` **Summer Coding Program** – *GoFox, São João da Madeira*
+  * Learned and interacted with a team of web design experts;
+  * Developed basic components of HTML websites and other Front-end skills;
+  * Learned the basics in various programming languages (Python, HTML).
+
+  
 ## Education<br/><br/>
 
 * `2021-2024` **Bachelor in Data Science** – *NOVA Information Management School - Lisboa, Portugal*
