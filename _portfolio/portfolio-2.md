@@ -5,5 +5,5 @@ collection: portfolio
 ---
 Grade: 17
 
-Blog post under construction...
+Complete project report [here](https://liveeduisegiunl-my.sharepoint.com/:b:/g/personal/20211652_novaims_unl_pt/EZ8l2xoPepFLnfgh9IRXywQBI7afnqvXevARYg7pBOUwyg?e=8XYogz)!
 
