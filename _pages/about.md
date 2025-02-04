@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-Hi! I'm Pedro, I'm currently enrolled in the last year of the Data Science Bachelor's 
-degree at [NOVA Information Management School](https://www.novaims.unl.pt/). 
+Hi! I'm Pedro, Hi! I'm Pedro, a recent graduate with a Bachelor's degree in Data Science from [NOVA Information Management School](https://www.novaims.unl.pt/). 
 I created this website to share my academic journey and showcase my project portfolio. 
 Feel free to reach out to me anytime!
 
